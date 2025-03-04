@@ -20,21 +20,16 @@ I'm a **Website Developer & UI/UX Designer** passionate about creating **engagin
 📌 **Version Control**: Git, GitHub  
 
 ## 🚀 Projects  
-- **Master Code** – A Master Code website is a platform that provides information, registration, and resources for hackathon events, enabling participants to collaborate, innovate, and showcase their coding skills. It often includes event schedules, team formation features, project submissions, and judging criteria. 
-- **E-commerce App** – Flutter-based shopping app with Firebase backend  
+- **Master Code** –A Master Code website is a platform for organizing, managing, and showcasing innovation-driven competitions where participants collaborate, develop projects, and compete.
 - **Car Rental App** – Smooth UI with real-time car booking app
 
  ### Checkout My Projects 
-- [Car Rental App](https://github.com/vivek-1206/flutter_project)
-- [BPPS App](https://github.com/vivek-1206/bppsapp)
+- [Car Rental App](https://github.com/vishnuavva/car.git)
 
-### 🚀 I am currently working on a project named **Bharath Bill Payment System**  
+### 🚀 I am currently working on a project named **Master Code**  
 
-# 📲 Bharath Bill Payment System  
-
-💜 **Inspired by PhonePe | Secure & Seamless Bill Payments**  
-
-Hello, I'm Vivek, a Flutter developer passionate about creating seamless digital payment experiences. **Bharath Bill Payment System** is a full-fledged payment platform replicating **PhonePe’s UI/UX**, providing users with a smooth and efficient way to handle bill payments.  
+# 📲 Master Code
+Hello, I'm Vishnu, a React developer that provides information, registration, and resources for hackathon events, enabling participants to collaborate, innovate, and showcase their coding skills. It often includes event schedules, team formation features, project submissions, and judging criteria.   
 
 ## 🏗️ Features  
 
