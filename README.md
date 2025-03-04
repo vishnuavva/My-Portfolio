@@ -63,7 +63,7 @@ This project is a complete **React JS-based UI** an innovation-driven event wher
 
 ## 👋🏻 Connect with Me  
 
-[![LinkedIn](www.linkedin.com/in/vishnu-vardhan-reddy-avva-b139502a0)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/vishnu-vardhan-reddy-avva-b139502a0)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/vishnuavva/)  
 
 
