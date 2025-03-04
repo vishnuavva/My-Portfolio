@@ -13,7 +13,7 @@ I'm a **Website Developer & UI/UX Designer** passionate about creating **engagin
 - 🔹 **Backend Integration** – Firebase, REST APIs, and third-party services  
 
 ## 🛠️ Tech Stack  
-📌 **Languages**: Java Script, Java, c++, Python, Dart 
+📌 **Languages**: Java Script, Java, c++, Python, Dart , HTML, CSS
 📌 **Frameworks**: React Js , Flutter  
 📌 **Backend**: Firebase, Firestore, REST APIs  
 📌 **Design Tools**: Figma 
@@ -28,29 +28,26 @@ I'm a **Website Developer & UI/UX Designer** passionate about creating **engagin
 
 ### 🚀 I am currently working on a project named **Master Code**  
 
-# 📲 Master Code
+# 💻 Master Code
 Hello, I'm Vishnu, a React developer that provides information, registration, and resources for hackathon events, enabling participants to collaborate, innovate, and showcase their coding skills. It often includes event schedules, team formation features, project submissions, and judging criteria.   
 
 ## 🏗️ Features  
 
-✅ FASTag Recharge  
-✅ Credit Card Bill Payments  
-✅ Mobile & DTH Recharge  
-✅ Utility Bill Payments  
-✅ Secure Transactions  
+✅ Project Submission Portal
+✅ Team Collaboration Tools
+✅ Judging & Scoring System 
+✅ Live Leaderboard & Progress Tracking
+✅ Event Schedule & Announcements  
 ✅ Intuitive UI/UX  
 
 ## 📚 Project Overview  
 
-This project is a complete **Flutter-based UI** that covers all the designs available in PhonePe, ensuring an easy-to-use and engaging payment experience.  
+This project is a complete **React JS-based UI** an innovation-driven event where participants collaborate intensively to develop creative solutions, prototypes, or projects within a limited timeframe.
 
-## 🛠️ Tools Used in this Project  
+- **Framework**: React JS  
+- **Language**: Java Script,CSS,HTML
+- **Backend**: Node Js  
 
-- **Framework**: Flutter  
-- **Language**: Dart  
-- **Backend**: Firebase  
-- **Authentication**:Firebase OTP   
-- **Database**: Firestore  
 
 ## 🔥 GitHub Stats  
 
